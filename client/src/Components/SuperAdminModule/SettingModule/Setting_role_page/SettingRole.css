@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.role_content_card{
+    width: 100%;
+    border: 1px solid #ccc;
+    min-height: 100px;
+    margin-top: 20%;
+    padding: 20px;
+}

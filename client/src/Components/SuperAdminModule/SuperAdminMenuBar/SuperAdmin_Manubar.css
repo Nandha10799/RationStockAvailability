@@ -1,0 +1,104 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.SuperAdmin_header_section{
+    width:100%;
+    float:left;
+    min-height:50px;
+    overflow:hidden;
+    border:1px solid #ccc;
+    padding-left:25px;
+    padding-right:25px;
+}
+
+.SuperAdmin_header_data{
+    width:100%;
+    float:left;
+}
+
+.SuperAdmin_header_logo{
+    float:left;
+}
+
+.SuperAdmin_header_logo i{
+    font-size:40px;
+    padding:5px;
+    color:#f00;
+}
+
+.SuperAdmin_header_right{
+    float:right;
+}
+
+.SuperAdmin_header_right Link{
+    display:block;
+    padding:10px;
+}
+.SuperAdmin_header_right i{
+    font-size:40px;
+    margin: 0px;
+}
+.SuperAdmin_menu_section{
+    width:100%;
+    float:left;
+    min-height:50px;
+    overflow:hidden;
+    border:1px solid #ccc;
+    padding-left:25px;
+    padding-right:25px;
+}
+
+.SuperAdmin_menu_data{
+    width:100%;
+    float:left;
+}
+
+.SuperAdmin_menu_list{
+    width:100%;
+    float:left;
+}
+.SuperAdmin_menu_list ul{
+    margin:0px;
+    padding:0px;
+    z-index: 5;
+}
+.SuperAdmin_menu_list ul li{
+    display:block;
+    float:left;
+    padding:8px;
+}
+.SuperAdmin_menu_list ul li Link{
+    display:block;
+    padding:5px;
+}
+.SuperAdmin_menu_list ul li Link i{
+    color:#f00;
+    margin-right:5px;
+}
+
+.SuperAdmin_menu_list ul li ul{
+    display:none;
+    width:250px;
+    position:absolute;
+    top:112px;
+    border:1px solid #ccc;
+    overflow-y:auto;
+}
+.SuperAdmin_menu_list ul li ul li{
+    width:100%;
+    float:left;
+    padding:0px;
+    border-bottom:1px solid #ccc;
+    background-color: black;
+    color: white;
+}
+.SuperAdmin_menu_list ul li ul li Link{
+    display:block;
+    padding:5px;
+    color: white;
+}
+
+.SuperAdmin_menu_list ul li:hover ul{
+    display:block;
+}

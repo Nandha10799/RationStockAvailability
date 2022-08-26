@@ -1,0 +1,102 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.admin_header_section{
+    width:100%;
+    float:left;
+    min-height:50px;
+    overflow:hidden;
+    border:1px solid #ccc;
+    padding-left:25px;
+    padding-right:25px;
+}
+
+.admin_header_data{
+    width:100%;
+    float:left;
+}
+
+.admin_header_logo{
+    float:left;
+}
+
+.admin_header_logo i{
+    font-size:40px;
+    padding:5px;
+    color:#f00;
+}
+
+.admin_header_right{
+    float:right;
+}
+
+.admin_header_right a{
+    display:block;
+    padding:10px;
+}
+.admin_header_right i{
+    font-size:40px;
+}
+.admin_menu_section{
+    width:100%;
+    float:left;
+    min-height:50px;
+    overflow:hidden;
+    border:1px solid #ccc;
+    padding-left:25px;
+    padding-right:25px;
+}
+
+.admin_menu_data{
+    width:100%;
+    float:left;
+}
+
+.admin_menu_list{
+    width:100%;
+    float:left;
+}
+.admin_menu_list ul{
+    margin:0px;
+    padding:0px;
+}
+.admin_menu_list ul li{
+    display:block;
+    float:left;
+    padding:8px;
+}
+.admin_menu_list ul li a{
+    display:block;
+    padding:5px;
+}
+.admin_menu_list ul li a i{
+    color:#f00;
+    margin-right:5px;
+}
+
+/* .admin_menu_list ul li ul{
+    display:none;
+    width:250px;
+    position:absolute;
+    top:107px;
+    border:1px solid #ccc;
+    overflow-y:auto;
+}
+.admin_menu_list ul li ul li{
+    width:100%;
+    float:left;
+    padding:0px;
+    border-bottom:1px solid #ccc;
+    background-color: black;
+    color: white;
+}
+.admin_menu_list ul li ul li a{
+    display:block;
+    padding:5px;
+    color:#000;
+}
+
+.admin_menu_list ul li:hover ul{
+    display:block;
+} */

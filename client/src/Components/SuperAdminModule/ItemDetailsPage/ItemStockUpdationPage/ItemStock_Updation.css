@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.ItemDetailStockUpdation_OuterDiv{
+    min-width: 75%;
+    margin: 65px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+.ItemDetailStockUpdation_InnerDiv{
+    width:100%;
+    float:left;
+    padding: 10px;
+}
+.ItemDetailStockUpdation_InnerDiv select, .ItemDetailStockUpdation_InnerDiv input{
+    border: 1px solid black;
+    border-radius: 10px;
+}

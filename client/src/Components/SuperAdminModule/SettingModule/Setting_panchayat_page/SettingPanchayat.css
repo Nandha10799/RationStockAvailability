@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.panchayat_content_card{
+    width: 100%;
+    border: 1px solid #ccc;
+    min-height: 100px;
+    padding: 50px;
+    margin: 10% auto;
+}

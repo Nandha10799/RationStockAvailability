@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.ItemCreation_OuterDiv{
+    min-width: 50%;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+.ItemCreation_InnerDiv{
+    width:100%;
+    float:left;
+    padding: 10px;
+}
+.ItemCreation_InnerDiv input, .ItemCreation_InnerDiv select{
+    border: 1px solid black;
+    border-radius: 10px;
+}

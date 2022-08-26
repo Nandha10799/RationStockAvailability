@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.dashboard_section{
+    width:100%;
+    min-height:50px;
+    overflow:hidden;
+    padding-left:30px;
+    padding-right:30px;
+    margin: auto 0;
+}
+.databoard_card{
+    width: 100%;
+    min-height: 50px;
+    padding: 10px;
+    border: 1px solid;
+    text-align: center;
+    margin: 50px auto;
+}

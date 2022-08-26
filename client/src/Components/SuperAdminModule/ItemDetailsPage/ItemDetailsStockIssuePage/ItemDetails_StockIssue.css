@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.ItemDetailStockIssue_OuterDiv{
+    min-width: 75%;
+    margin: 65px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+.ItemDetailStockIssue_InnerDiv{
+    width:100%;
+    float:left;
+    padding: 10px;
+}
+.ItemDetailStockIssue_InnerDiv select, .ItemDetailStockIssue_InnerDiv input{
+    border: 1px solid black;
+    border-radius: 10px;
+}
